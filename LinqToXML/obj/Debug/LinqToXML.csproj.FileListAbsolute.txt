@@ -1,0 +1,7 @@
+C:\Users\Administrateur\source\repos\LinqToXML\LinqToXML\bin\Debug\LinqToXML.exe.config
+C:\Users\Administrateur\source\repos\LinqToXML\LinqToXML\bin\Debug\LinqToXML.exe
+C:\Users\Administrateur\source\repos\LinqToXML\LinqToXML\bin\Debug\LinqToXML.pdb
+C:\Users\Administrateur\source\repos\LinqToXML\LinqToXML\obj\Debug\LinqToXML.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\LinqToXML\LinqToXML\obj\Debug\LinqToXML.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\LinqToXML\LinqToXML\obj\Debug\LinqToXML.exe
+C:\Users\Administrateur\source\repos\LinqToXML\LinqToXML\obj\Debug\LinqToXML.pdb
